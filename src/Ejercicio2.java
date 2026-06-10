@@ -2,12 +2,7 @@ import java.util.ArrayDeque;
 
 public class Ejercicio2 {
 
-    /**
-     * Método que verifica si una cadena de texto
-     * es palíndroma usando una pila.
-     * * Ejemplo: radar -> true | computacion -> false
-     * RESTRICCIÓN: USAR SOLO PILAS COMO ESTRUCTURA AUXILIAR
-     */
+
     public boolean esPalindromo(String texto) {
         // Validación básica por seguridad
         if (texto == null) {

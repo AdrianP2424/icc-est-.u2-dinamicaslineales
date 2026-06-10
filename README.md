@@ -35,6 +35,9 @@ El ejercicio 2 consiste en verificar si una palabra es palíndroma (se lee igual
 
 ### Método implementado
 
+![alt text](assets/ser.png)
+
+
 ````java
 public boolean esPalindromo(String texto) {
     // Implementación del método
